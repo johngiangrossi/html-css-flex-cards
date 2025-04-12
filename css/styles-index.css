@@ -27,6 +27,17 @@ body {
     padding: 0 12px;
 }
 
+/* header */
+
+.header {
+    text-align: center;
+    padding: 20px;
+}
+
+.header-title {
+    color: rgb(207, 10, 10);
+    margin: 30px;
+}
 
 
 /* debug */
